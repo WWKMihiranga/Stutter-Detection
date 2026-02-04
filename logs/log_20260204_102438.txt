@@ -1,0 +1,13 @@
+[2026-02-04 10:24:38] [INFO] Environment setup completed successfully on MacBook.
+[2026-02-04 10:24:38] [INFO] Device in use: cpu
+[2026-02-04 10:24:38] [INFO] Batch size: 4
+[2026-02-04 10:25:46] [INFO] Dataset exploration completed. Found 3 classes with 7935 files.
+[2026-02-04 10:25:59] [INFO] Warning: No fluent/negative class in dataset. Using stutter-only classification.
+[2026-02-04 10:27:06] [INFO] Phase 3 completed. Processed 7,935 clips. Train: 7,288, Val: 398, Test: 249
+[2026-02-04 10:41:09] [INFO] Phase 4 completed. Model built with 813,686 trainable params.
+[2026-02-04 13:37:21] [INFO] Phase 8 completed - Pseudo-label quality improved from 0.15% to 0.84%
+[2026-02-04 13:37:21] [INFO] Events increased from 61 to 224
+[2026-02-04 14:08:08] [INFO] Phase 11 completed - Real training finished
+[2026-02-04 14:08:08] [INFO] Final frame predicted %: 51.30%
+[2026-02-04 14:08:08] [INFO] Final frame true %: 0.00%
+[2026-02-04 14:08:08] [INFO] Training type: REAL (not debug)
