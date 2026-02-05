@@ -17,25 +17,22 @@ An interpretable, weakly-supervised system for detecting stuttering events in sp
 
 The dataset is not included in this repository due to size and privacy constraints.
 
-Download instructions:
-- https://github.com/apple/ml-stuttering-events-dataset
+Download instructions: https://github.com/apple/ml-stuttering-events-dataset
 
 After download:
 Place files inside `data/raw/`
 
 ## processed dataset
 
-The dataset is already processed and can directly copy and paste to the `data/raw/`.
+The dataset is already processed and can be copied and pasted directly into `data/raw/`.
 
-Download processed dataset:
-- https://drive.google.com/drive/folders/1K9hf4EN3mEOOJu5FmFXIBlTX4ZOtJMA7?usp=drive_link
+Download processed dataset: https://drive.google.com/drive/folders/1K9hf4EN3mEOOJu5FmFXIBlTX4ZOtJMA7?usp=drive_link
 
 ## User Interface
 
 Available on Huggingface.
 
-Link:
-- https://huggingface.co/spaces/samplepractices005/stuttering-detection
+Link: https://huggingface.co/spaces/samplepractices005/stuttering-detection
 
 ## Research
 - **Author:** W.W. Kavindu Mihiranga
