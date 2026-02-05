@@ -13,7 +13,7 @@ An interpretable, weakly-supervised system for detecting stuttering events in sp
 2. Click "Analyze Speech"
 3. View results and visualizations
 
-## Dataset
+## Original Dataset
 
 The dataset is not included in this repository due to size and privacy constraints.
 
@@ -22,6 +22,20 @@ Download instructions:
 
 After download:
 Place files inside `data/raw/`
+
+## processed dataset
+
+The dataset is already processed and can directly copy and paste to the `data/raw/`.
+
+Download processed dataset:
+- https://drive.google.com/drive/folders/1K9hf4EN3mEOOJu5FmFXIBlTX4ZOtJMA7?usp=drive_link
+
+## User Interface
+
+Available on Huggingface.
+
+Link:
+- https://huggingface.co/spaces/samplepractices005/stuttering-detection
 
 ## Research
 - **Author:** W.W. Kavindu Mihiranga
