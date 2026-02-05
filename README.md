@@ -22,7 +22,7 @@ Download instructions: https://github.com/apple/ml-stuttering-events-dataset
 After download:
 Place files inside `data/raw/`
 
-## processed dataset
+## Processed dataset
 
 The dataset is already processed and can be copied and pasted directly into `data/raw/`.
 
